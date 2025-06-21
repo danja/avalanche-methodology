@@ -60,3 +60,6 @@ Code assistant LLMs owe a lot of their knowledge to the archives of sites like S
 
 * **Cognitive debt accumulates**
 Where the thing you have built has gone way beyond your initial conception and you haven't a clue what it can do. **Workaround :** If you feel lost at sea, **ask your assistant for a tutorial**.
+
+* **LLMs don't suffer from Impostor Syndrome**
+Their strategy is more "fake it til you make it", backed up with flattery. 
