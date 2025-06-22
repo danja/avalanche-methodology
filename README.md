@@ -31,7 +31,10 @@ This sequence is only a general guideline structure, not a binding contract. It 
 
 #### 6. Consolidate
 
+
 #### 7. Pivot
+
+No matter how much new work has been done, **be prepared to back out**.
 
 ## Praxis
 
@@ -46,8 +49,8 @@ Dev is cheap
 ### Encourage Feedback Loops
 ### Rapid Activity Switching
 ### Experiment
+### Pay Attention
 ### Keep Track
-pay attention
 ### Freeze, Reuse
 ### Feature Flags
 ### Design for Serendipity
@@ -62,4 +65,9 @@ Code assistant LLMs owe a lot of their knowledge to the archives of sites like S
 Where the thing you have built has gone way beyond your initial conception and you haven't a clue what it can do. **Workaround :** If you feel lost at sea, **ask your assistant for a tutorial**.
 
 * **LLMs don't suffer from Impostor Syndrome**
-Their strategy is more "fake it til you make it", backed up with flattery. 
+Their strategy is more "fake it til you make it", backed up with flattery. You may end up with a great myth and no running code.
+**Workaround :** Be belligerent. If the agent stubbornly refuses to do the work on the code proper, asking for tests on it can be enough to tip the balance into activity.
+
+* **Agents love creating broken tests**
+It's like a hobby with them.
+**Workaround :** you may have to do a little manual intervention, actually look at the test code yourself. Or more realistically, get a completely different assistant/model to take a look.
